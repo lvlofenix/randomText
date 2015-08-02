@@ -1,0 +1,4 @@
+D:\SITES E PROJETOS\C#\04 CLASSES E DLLS\SOURCE\randomString\bin\Debug\randomString.dll
+D:\SITES E PROJETOS\C#\04 CLASSES E DLLS\SOURCE\randomString\bin\Debug\randomString.pdb
+D:\SITES E PROJETOS\C#\04 CLASSES E DLLS\SOURCE\randomString\obj\Debug\randomString.dll
+D:\SITES E PROJETOS\C#\04 CLASSES E DLLS\SOURCE\randomString\obj\Debug\randomString.pdb
