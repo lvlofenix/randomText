@@ -33,7 +33,7 @@ se eu informar randomName(4,10) terei um retorno de 10 caracteres da opção 4.
 # Exemplo de implementação
 
 importe a dll randomString da seguinte forma
-
+![exemplo] (http://s12.postimg.org/y12n93765/image.png)
 
 crie o metodo  CaracterRandom
 
