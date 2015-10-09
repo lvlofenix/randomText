@@ -35,5 +35,11 @@ chame a classe randomName informando os parametros, atribuindo o resultado ao co
 ![Exemplo] (http://s29.postimg.org/9wrwhx6ef/image.png)
 
 
-![DOWNLOAD DLL] (https://github.com/lvlofenix/randomText/releases/download/1.0/randomString.dll)
-![DOWNLOAD EXEMPLO] (https://github.com/lvlofenix/randomText/releases/download/1.0/Exemplo.de.uso.zip)
+
+Caso ainda tenha duvidas baixe nosso exemplo de uso.
+
+![ExemploUso] (http://s15.postimg.org/cbsx0kxej/image.png)
+
+
+* [`DOWNLOAD DLL`] (https://github.com/lvlofenix/randomText/releases/download/1.0/randomString.dll)
+* [`DOWNLOAD EXEMPLO`] (https://github.com/lvlofenix/randomText/releases/download/1.0/Exemplo.de.uso.zip)
