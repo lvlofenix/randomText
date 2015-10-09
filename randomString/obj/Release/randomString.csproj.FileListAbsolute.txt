@@ -6,3 +6,8 @@ D:\SITES E PROJETOS\C#\04 CLASSES E DLLS\SOURCE\randomString\bin\Release\randomS
 D:\SITES E PROJETOS\C#\04 CLASSES E DLLS\SOURCE\randomString\bin\Release\randomString.pdb
 D:\SITES E PROJETOS\C#\04 CLASSES E DLLS\SOURCE\randomString\obj\Release\randomString.dll
 D:\SITES E PROJETOS\C#\04 CLASSES E DLLS\SOURCE\randomString\obj\Release\randomString.pdb
+D:\SITES E PROJETOS\GIT\randomText\randomString\bin\Release\randomString.dll
+D:\SITES E PROJETOS\GIT\randomText\randomString\bin\Release\randomString.pdb
+D:\SITES E PROJETOS\GIT\randomText\randomString\obj\Release\randomString.csprojResolveAssemblyReference.cache
+D:\SITES E PROJETOS\GIT\randomText\randomString\obj\Release\randomString.dll
+D:\SITES E PROJETOS\GIT\randomText\randomString\obj\Release\randomString.pdb

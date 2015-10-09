@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace randomString
 {
@@ -22,8 +19,8 @@ namespace randomString
                 else if (opcao == 3) { chars = "abcdefghijklmnopqrstuvxywzABCDEFGHIJKLMNOPQRSTUVXYWZ".ToCharArray(); declarechars = 52; }
                 else if (opcao == 4) { chars = "0123456789".ToCharArray(); declarechars = 10; }
                 else if (opcao == 5) { chars = "0123456789abcdefghijklmnopqrstuvxywz".ToCharArray(); declarechars = 36; }
-                else if (opcao == 5) { chars = "0123456789abcdefghijklmnopqrstuvxywzABCDEFGHIJKLMNOPQRSTUVXYWZ".ToCharArray(); declarechars = 62; }
-                else if (opcao == 6) { chars = "!@#$%¨&*()_+-=´[`{ª^~}]º/°?;:.>,<|¹²³£¢¬§".ToCharArray(); declarechars = 41; }
+                else if (opcao == 6) { chars = "0123456789abcdefghijklmnopqrstuvxywzABCDEFGHIJKLMNOPQRSTUVXYWZ".ToCharArray(); declarechars = 62; }
+                else if (opcao == 7) { chars = "!@#$%¨&*()_+-=´[`{ª^~}]º/°?;:.>,<|¹²³£¢¬§".ToCharArray(); declarechars = 41; }
 
                 for (int i = 0; i < tamanho; i++)
                 {
